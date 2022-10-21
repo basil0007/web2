@@ -1,0 +1,244 @@
+.main{
+    margin: 0;
+}
+.pos{
+    background-image: url(./ss1.png);
+    height: 91px;
+    width: 1263.33px;
+    background-size: cover;
+    position: fixed;
+    
+}
+.white{
+    height: 632px;
+    width: 100%;
+    background-color: white;
+   
+}
+.simple{
+    
+    height: 632px;
+    width: 45%;
+   
+    float: left;
+    background-color: white;
+    
+}
+.simple h1{
+    font-size: 40px;
+    
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 220px;
+    margin-left: 200px;
+}
+.mobile{
+    
+    height: 632px;
+    width: 45%;
+  float: left;
+ 
+  background-color:white;
+
+
+}
+.mobile img{
+    width: 304px;
+    height: 572.63px;
+    padding-top: 100px;
+    margin-left: 130px;
+    margin-top: 65px;
+}
+.paraone{
+    margin-left: 200px;
+   font-size: large;
+    font-weight: 100px;
+    letter-spacing: 1px;
+}
+.paratwo{
+    margin-left: 200px;
+    letter-spacing: 1px;
+    color: rgb(92, 86, 86);
+}
+.droid img{
+   
+     margin-left: 150px; 
+    margin-top: -150px;
+    width: 300px;
+    cursor: pointer;
+   
+}
+.ash{
+    width: 615.67px;
+    height: 871.79px;
+    background-color:#D8E8EA;
+    margin-top: 190px;
+}
+.bussiness{
+    margin-left: 80px;
+    font-size: 40px;
+    padding-top: 60px;
+    
+}
+.bus{
+    border: none;
+    background: transparent;
+    color: #39b3ed;
+    font-size: 18px;
+}
+.bus:hover{
+    text-decoration: underline;
+    
+    cursor: pointer;
+   
+}
+.ash p{
+    font-size: 20px;
+    margin-left: 30px;
+    
+}
+.wpi{
+    border: none;
+    background: transparent;
+    color: #39b3ed;
+    font-size: 18px;
+}
+.wpi:hover{
+    text-decoration: underline;
+    
+    cursor: pointer;
+   
+}
+.mobe{
+    background-image: url(./mob2.png);
+    background-size: contain;
+    width: 332px;
+    height: 364px;
+    margin-top: 160px;
+    margin-left: 130px;
+}
+.brown{
+    width: 615.67px;
+    height: 871.79px;
+    background-color:#E7F0E4;
+    margin-left: 647px;
+    margin-top:-871px;
+}
+.round{
+    margin-left: -7px;
+    height: 50%;
+    width: 100%;
+    background-image: url(./ss2.png); 
+    background-size: cover;
+    
+}
+.end{
+    margin-left: 200px;
+    margin-top: 100px;
+    font-size: medium;
+    color: rgb(92, 86, 86);
+    letter-spacing: 1px;
+}
+.default{
+    color: black;
+    margin-left: 165px;
+    font-size: 35px;
+    margin-top: 10px;
+    
+    font-weight: bolder;
+}
+.same{
+margin-left: 100px;
+font-size: larger;
+}
+.exp{
+    margin-left: 535px;
+    margin-top: 55px;
+    border-radius: 50px;
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    color: #128c7e;
+    border-color: #128c7e;
+
+}
+.last{
+    height: 407px;
+    width: 1263.33px;
+    background-color:#353f4f;
+    margin-top: 50px;
+}
+.lastone{
+    width: 22%;
+    height: 350px;
+    color: white;
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-top: 35px;
+    font-size: medium;
+    float: left;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.lastone p:hover{
+border-bottom: 1px solid white;
+width: fit-content;
+}
+.lasttwo{
+    color: white;
+    width: 22%;
+    height: 350px;
+    float: left;
+    margin-top: 35px;
+    font-size: medium;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.lasttwo p:hover{
+    border-bottom: 1px solid white;
+    width: fit-content;}
+.lastthree{
+    color: white;
+    width: 22%;
+    height: 350px;
+    float: left;
+    margin-top: 35px;
+    font-size: medium;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.lastthree p:hover{
+    border-bottom: 1px solid white;
+    width: fit-content;}
+.lastfour{
+    color: white;
+    width: 25%;
+    height: 350px;
+    float: left;
+    margin-top: 35px;
+    font-size: medium;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.lastfour p:hover{
+    border-bottom: 1px solid white;
+    width: fit-content;
+}
+.final{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    float: left;
+}
+.llc{
+    color: white;
+    font-size: small;
+    margin-left: 100px;
+}
+.privacy h2{
+    color: white;
+    margin-left: 1050px;
+    margin-top: -35px;
+    font-size: large;
+    cursor: pointer;
+}
